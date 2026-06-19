@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("UBSCY Factory OS imeanza kufanya kazi!");
-});
+console.log("UBSCY Factory OS imeanza kufanya kazi!");
+
+alert("Karibu UBSCY Factory OS");
